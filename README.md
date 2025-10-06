@@ -53,7 +53,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JakeStasi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=JakeStasi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> 
 </div>
 
 ###
@@ -63,7 +63,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://gifdb.com/images/high/bongo-cat-typing-f393t7cevkw08k3q.gif"  />
+  <img height="150" src="https://gifdb.com/images/high/bongo-cat-typing-f393t7cevkw08k3q.gif"  />  <img height="150" src="[https://gifdb.com/images/high/bongo-cat-typing-f393t7cevkw08k3q.gif](https://sdmntprwestus.oaiusercontent.com/files/00000000-3c84-6230-8dcd-3e18aec4d568/raw?se=2025-10-06T06%3A48%3A43Z&sp=r&sv=2024-08-04&sr=b&scid=40e82581-6080-5cb7-9eee-f6ccff8a8b52&skoid=a3412ad4-1a13-47ce-91a5-c07730964f35&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-10-05T14%3A45%3A47Z&ske=2025-10-06T14%3A45%3A47Z&sks=b&skv=2024-08-04&sig=TS4wRmpkWx0EfoIIRyymxYTZjr1cIDxFtZgzRtA5dRc%3D)"  /> 
 </div>
 
 ###
