@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">My name is Jake Stasi and I'm currently studying Data Science at University Of California Santa Barbara. I also have a background in computer science ! I enjoy studying machine learning, learning how it works from the ground up and how we can use machine learning to solve real world problems that can make an impact. I also enjoy building passion full stack software engineering projects! <br><br>- 🔭 I studied Computer Science at Ohlone College<br>- 📚 I'm currently studying Data Science at UCSB<br>- ⚡ In my free time I workout and play basketball !<br><br>Email : jakestasi92@gmail.com<br>Linkedin : https://www.linkedin.com/in/jakestasi/</p>
+<p align="left">My name is Jake Stasi and I'm currently studying Data Science at University Of California Santa Barbara. I also have a background in computer science ! I enjoy studying machine learning, learning how it works from the ground up and how we can use machine learning to solve real world problems that can make an impact. I also enjoy building passion full stack software engineering projects! I am currently on track to pursue a Masters in Computer Science at UC Irvine! <br><br>- 🔭 I studied Computer Science at Ohlone College<br>- 📚 I'm currently studying Data Science at UCSB<br>- ⚡ In my free time I workout and play basketball !<br><br>Email : jakestasi92@gmail.com<br>Linkedin : https://www.linkedin.com/in/jakestasi/</p>
 
 ###
 
