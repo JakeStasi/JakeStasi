@@ -1,4 +1,5 @@
-<
+
+
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -7,7 +8,7 @@
 <div align = "center";  gap: 20px;">
   
   
-  <img height="200" src="https://sdmntprwestus.oaiusercontent.com/files/00000000-3c84-6230-8dcd-3e18aec4d568/raw?se=2025-10-06T06%3A48%3A43Z&sp=r&sv=2024-08-04&sr=b&scid=40e82581-6080-5cb7-9eee-f6ccff8a8b52&skoid=a3412ad4-1a13-47ce-91a5-c07730964f35&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-10-05T14%3A45%3A47Z&ske=2025-10-06T14%3A45%3A47Z&sks=b&skv=2024-08-04&sig=TS4wRmpkWx0EfoIIRyymxYTZjr1cIDxFtZgzRtA5dRc%3D" />
+  <img width="200" height="200" alt="ChatGPT Image Jul 8, 2026, 01_30_09 AM" src="https://github.com/user-attachments/assets/14daddfd-ad19-44a1-9b3f-b3a6e7f08790" />
 </div>
 
 
